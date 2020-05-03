@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /tpublications
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+# Peer-review journals
+
+* B. Lu, X. Yu, H. K. CHU, K. Huang, *J. Lai* and L. Cheng, “A Learning Approach for Suture Thread Detection with Feature Enhancement and Segmentation for 3D Shape Reconstruction,” IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, 2020.
+
+* K. Huang, B. Lu, *J. Lai*, and H. K. Chu, “Microchip System for Patterning Cells on different Substratesvia Negative Dielectrophoresis,” IEEE Transactions on Biomedical Circuits and Systems (T-BCS), vol. 13, no. 5, pp. 1063-1074, 2019.
+
+* B. Lu, H. K. Chu, K. Huang, and *J. Lai*, “Surgical Suture Thread Detection and 3D Reconstruction Usinga Model-free Approach in a Calibrated Stereo-visual System,” IEEE/ASME Transactions on Mechatronics(T-MECH), 2019.
+
