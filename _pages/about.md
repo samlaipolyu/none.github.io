@@ -17,29 +17,18 @@ Besides being a lame body-builder, Sam is an expert in whiskey and coffee.
 
 Education
 ======
-PhD in Mechanical Engineering, late 2021 (est.)-
-The Hong Kong Polytechnic University-
++ **PhD in Mechanical Engineering**, late 2021 (est.)-
+_The Hong Kong Polytechnic University_
 Hong Kong, China
 
 
-MSc in Mechanical and Automation Engineering, 2017-
-The Chinese University of Hong Kong
++ **MSc in Mechanical and Automation Engineering**, 2017-
+_The Chinese University of Hong Kong_
 Hong Kong, China
 
 
-BEng in Engineering, 2016-
-Wuhan University of Science and Technology-
++ **BEng in Engineering**, 2016-
+_Wuhan University of Science and Technology_
 Wuhan, China
-
-
-
-
-
-How to edit your site's GitHub repository
-------
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
