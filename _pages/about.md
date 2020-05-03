@@ -17,22 +17,22 @@ Besides being a lame body-builder, Sam is an expert in whiskey and coffee.
 
 Education
 ======
-+ **PhD in Mechanical Engineering**, late 2021 (est.)-
-_The Hong Kong Polytechnic University_
-Hong Kong, China
++ **PhD in Mechanical Engineering**, late 2021 (est.).
+_The Hong Kong Polytechnic University._
+Hong Kong, China.
 
 
-+ **MSc in Mechanical and Automation Engineering**, 2017-
-_The Chinese University of Hong Kong_
-Hong Kong, China
++ **MSc in Mechanical and Automation Engineering**, 2017.
+_The Chinese University of Hong Kong._
+Hong Kong, China.
 
 
-+ **BEng in Engineering**, 2016-
-_Wuhan University of Science and Technology_
-Wuhan, China
++ **BEng in Engineering**, 2016.
+_Wuhan University of Science and Technology._
+Wuhan, China.
 
-+ **Summer School**, 2014-
-_Roger Williams University_
-Bristol, RI, United State of America
++ **Summer School**, 2014.
+_Roger Williams University._
+Bristol, RI, United State of America.
 
 
