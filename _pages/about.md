@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Sam Jiewen Lai is a year three PhD candidate in Biomechanics and Materials Lab, The Hong Kong Polytchnic University, supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). He got his bachelor’s degrees of metallurgical engineering in Wuhan University of Science and Technolgy in 2016, and his master's degree of mechanical and automation engineering in The Chinese University of Hong Kong in 2017 advised by [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu). His research interests include but not limit to Robotics, Machine Learning, Computer Vision, and Tissue Engineering.
+Sam Jiewen Lai is a year three PhD candidate in Biomechanics and Materials Lab, The Hong Kong Polytchnic University, supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). He got his bachelor’s degrees of metallurgical engineering in Wuhan University of Science and Technolgy in 2016, and his master's degree of mechanical and automation engineering in The Chinese University of Hong Kong in 2017 advised by [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu). His research interests include but not limit to Robotics, Machine Learning, Computer Vision, and Tissue Engineering. Currently he is working on the development of surgical continuum robot system.
 
 
 Education
 ======
-PhD in Robotics, late 2021 (est.)-
+PhD in Mechanical Engineering, late 2021 (est.)-
 The Hong Kong Polytechnic University-
 Hong Kong, China
 
