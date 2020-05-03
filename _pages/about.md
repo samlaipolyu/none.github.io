@@ -14,16 +14,19 @@ Sam Jiewen Lai is a year three PhD candidate in Biomechanics and Materials Lab, 
 Education
 ======
 PhD in Robotics, late 2021 (est.)
+
 The Hong Kong Polytechnic University
 Hong Kong, China
 
 
 MSc in Mechanical and Automation Engineering, 2017
+
 The Chinese University of Hong Kong
 Hong Kong, China
 
 
 BEng in Engineering, 2016
+
 Wuhan University of Science and Technology
 Wuhan, China
 
