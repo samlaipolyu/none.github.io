@@ -37,3 +37,12 @@ Wuhan, China.
 + **Summer School**, 2014.
 _Roger Williams University._
 Bristol, RI, United States of America.
+
+
+Contact
+======
+jiewen.lai [æ] polyu [ð] edu [ð] hk
+
+EF 313, ME, PolyU, Hung Hom, KLN, HKSAR
+
+(+852) 5267 7992
