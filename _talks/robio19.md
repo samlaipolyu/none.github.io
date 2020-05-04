@@ -13,3 +13,5 @@ Presentation @[ROBIO2019](https://www.robio.org/). December 6 happens to be my b
 
 Dali is a chill place. Go visit in winter.
 
+![dali](/images/dali.jpg)
+
