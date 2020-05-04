@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             :   "Sam Jiewen Lai"
+  name             :  "Sam Jiewen Lai"
   avatar           :  "drawing.jpg"
-  bio              :   "PhD candidate at The Hong Kong Polytechnic University"
+  bio              :  "PhD candidate at The Hong Kong Polytechnic University"
   location         :  "Hong Kong, China"
   employer         :
   pubmed           : 
@@ -242,6 +242,15 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+      
+  # _whatsup
+  - scope:
+      path: ""
+      type: whatsup
+    values:
+      layout: whatsup
       author_profile: true
       share: true
 
