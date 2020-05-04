@@ -39,3 +39,4 @@ _Roger Williams University._
 Bristol, RI, United States of America.
 
 
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=pWPP3H6tu6piSitaO1ly8AJ_73sTJ9bEIzk5Pzekk6o"></script>
