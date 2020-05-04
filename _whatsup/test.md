@@ -1,7 +1,7 @@
 ---
 title: "How to build this"
 collection: whatsup
-type: "Conference proceedings talk"
+type: "How to build this"
 permalink: /wahtsup/1
 venue: "a random starbucks"
 date: 2020-05-04
