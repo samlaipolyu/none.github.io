@@ -12,8 +12,6 @@ Sam Jiewen Lai is a year three PhD candidate in Biomechanics and Materials Lab, 
 
 Sam's research interests include but not limit to Robotics, Machine Learning, Computer Vision, and Tissue Engineering. Sam is a member of IEEE (S'20) Robotics & Automation Society (RAS). Currently he is working on the development of surgical continuum robot system.
 
-Besides being a lame bodybuilder, Sam is an expert in whiskey and coffee.
-
 
 
 
