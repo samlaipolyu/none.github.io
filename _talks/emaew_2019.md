@@ -2,7 +2,7 @@
 title: "Collision-Free Approach for Multi-Segment Continuum Robots by Self-Motion Control in SE(2)"
 collection: talks
 type: "Oral Presentation"
-permalink: /talks/2019-talk-2
+permalink: /talks/emaew_2019
 venue: "EMAEW-2019"
 date: 2019-05-30
 location: "Korea University, Seoul, South Korea"
