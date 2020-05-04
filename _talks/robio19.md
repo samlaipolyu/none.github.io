@@ -8,5 +8,5 @@ date: 2019-12-06
 location: "Hilton Resort, Dali, China"
 ---
 
-2019 IEEE International Conference on Robotics and Biomimetics ([ROBIO](https://www.robio.org/)) was held in Dali during Dec 6-8. And Dec 6 happens to be my birthday. I was also nominated as the best paper award in this conference.
+Presentation @[ROBIO](https://www.robio.org/). December 6 happens to be my birthday and ROBIO nominated me as the best paper award. Maybe they knew it all.
 
