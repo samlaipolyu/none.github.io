@@ -250,9 +250,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: posts
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
