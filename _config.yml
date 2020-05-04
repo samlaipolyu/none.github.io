@@ -194,7 +194,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: post
     values:
       layout: single
       author_profile: true
@@ -245,15 +245,6 @@ defaults:
       author_profile: true
       share: true
       
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
