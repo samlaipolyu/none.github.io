@@ -28,7 +28,7 @@ _The Chinese University of Hong Kong._
 Hong Kong, China.
 
 + **BEng in Engineering**, 2016.
-_School of Materials and Metallurgy_
+_Dept. of Metallurgical Engineering._
 _Wuhan University of Science and Technology._
 Wuhan, China.
 
