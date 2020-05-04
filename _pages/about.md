@@ -19,7 +19,7 @@ Besides being a lame bodybuilder, Sam is an expert in whiskey and coffee.
 
 Education
 ======
-+ **PhD in Mechanical Engineering**, late 2021 (expected)
++ **PhD in Mechanical Engineering**, late 2021 (expected).
 _Dept. of Mechanical Engineering._
 _The Hong Kong Polytechnic University._
 Hong Kong, China.
