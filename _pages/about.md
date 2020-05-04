@@ -29,7 +29,7 @@ _Dept. of Mechanical and Automation Engineering._
 _The Chinese University of Hong Kong._
 Hong Kong, China.
 
-+ **BEng in Engineering**, 2016.
++ **BEng in Metallurgical Engineering (with Distinction)**, 2016.
 _Dept. of Metallurgical Engineering._
 _Wuhan University of Science and Technology._
 Wuhan, China.
