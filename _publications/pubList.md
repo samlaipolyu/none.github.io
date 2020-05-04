@@ -13,9 +13,11 @@ redirect_from:
 
 * B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, April 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
 
+* B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," in IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25, no. 2, pp. 792-803, April 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
+
 * K. Huang, B. Lu, **J. Lai** and H. K. Chu, "Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis," in IEEE Transactions on Biomedical Circuits and Systems (T-BCS), vol. 13, no. 5, pp. 1063-1074, Oct. 2019. [@paper](https://ieeexplore.ieee.org/document/8818352)
 
-* B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," in IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25, no. 2, pp. 792-803, April 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
+* K. Huang, Z. Cui, **J. Lai**, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,” in IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. (_Under Review_)
 
 
 --
