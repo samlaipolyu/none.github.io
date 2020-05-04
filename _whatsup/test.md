@@ -2,7 +2,7 @@
 title: "How to build this"
 collection: whatsup
 type: "What's up"
-permalink: /whatsup/1
+permalink: /whatsup/test
 
 ---
 
