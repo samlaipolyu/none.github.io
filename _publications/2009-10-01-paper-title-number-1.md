@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-## Peer-review journals
+## Peer-review Journals
 
 * B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, April 2020.
 
@@ -20,7 +20,7 @@ redirect_from:
 
 --
 
-## Peer-review conference proceedings 
+## Peer-review Conference Proceedings 
 
 * **J. Lai**, K. Huang, B. Lu and H. K. Chu, "Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator," 2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Boston, MA, USA, 2020. (_Acccpted_)
 
