@@ -21,17 +21,14 @@ Education
 _Dept. of Mechanical Engineering._
 _The Hong Kong Polytechnic University._
 Hong Kong, China.
-
 + **MSc in Mechanical and Automation Engineering**, 2017.
 _Dept. of Mechanical and Automation Engineering._
 _The Chinese University of Hong Kong._
 Hong Kong, China.
-
 + **BEng in Metallurgical Engineering (with Distinction)**, 2016.
 _Dept. of Metallurgical Engineering._
 _Wuhan University of Science and Technology._
 Wuhan, China.
-
 + **Summer School**, 2014.
 _Roger Williams University._
 Bristol, RI, United States of America.
