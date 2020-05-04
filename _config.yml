@@ -245,12 +245,12 @@ defaults:
       author_profile: true
       share: true
       
-  # _whatsup
+  # _posts
   - scope:
       path: ""
-      type: whatsup
+      type: posts
     values:
-      layout: whatsup
+      layout: posts
       author_profile: true
       share: true
 
