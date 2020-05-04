@@ -43,6 +43,6 @@ Contact
 ======
 jiewen.lai [æ] polyu [ð] edu [ð] hk
 
-EF 313, ME, PolyU, Hung Hom, KLN, HKSAR
+EF313, ME, PolyU, Hung Hom, KLN, HKSAR
 
 (+852) 5267 7992
