@@ -2,7 +2,7 @@
 title: "A Novel Wire Driven Soft Robot Manipulator with Visual Servoing Control"
 collection: talks
 type: "Presentation"
-permalink: /talks/2019-talk-3
+permalink: /talks/poster_competition
 venue: "The 5th PolyU Mechanical Engineering Research Presentation Competition"
 date: 2019-05-28
 location: "PolyU, Hong Kong"
