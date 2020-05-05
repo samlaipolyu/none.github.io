@@ -20,7 +20,7 @@ redirect_from:
 * K. Huang, Z. Cui, **J. Lai**, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,” in IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. (_Under Review_)
 
 
---
+---
 
 ## Peer-review Conference Proceedings 
 
