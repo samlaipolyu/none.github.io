@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+---
 Sam Jiewen Lai is a year three PhD candidate in Biomechanics and Materials Lab, The Hong Kong Polytchnic University (PolyU), under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). Prior to the PhD study, he got his master's degree of mechanical and automation engineering in The Chinese University of Hong Kong (CUHK) in 2017 under the supervision of [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu), and bachelor’s degrees of metallurgical engineering in Wuhan University of Science and Technolgy (WUST) in 2016. Some of his works are collabed with [Dr. Bo Lu](https://lu-bo.github.io/) and Mr. all-but-dissertation [Thomas Kaicheng Huang](https://sites.google.com/view/kaicheng-huang/).
 
 Sam's research interests include but not limit to Robotics, Machine Learning, Computer Vision, and Tissue Engineering. Sam is a member of IEEE (S'20) Robotics & Automation Society (RAS). Currently he is working on the development of surgical continuum robot system.
