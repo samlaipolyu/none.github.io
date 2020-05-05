@@ -50,9 +50,4 @@ EF313, ME, PolyU, Hung Hom, KLN, HKSAR
 
 ---
 
-<script>
-function myFunction() {
-  var x = document.lastModified;
-  document.getElementById("demo").innerHTML = x;
-}
-</script>
+<script type="text/javascript"> document.write("Page was last modified on: " + document.lastModified);</script>
