@@ -43,3 +43,12 @@ EF313, ME, PolyU, Hung Hom, KLN, HKSAR
 (+852) 5267 7992
 
 <!-- <body> <small><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=220&t=n&d=pWPP3H6tu6piSitaO1ly8AJ_73sTJ9bEIzk5Pzekk6o&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353"></script></small></body> -->
+
+
+
+<small><script>
+function myFunction() {
+  var x = new Date(document.lastModified);
+  document.getElementById("demo").innerHTML = x;
+}
+</script></small>
