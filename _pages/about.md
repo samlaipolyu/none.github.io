@@ -14,7 +14,7 @@ Sam's research interests include but not limit to Robotics, Machine Learning, Co
 
 
 
-
+---
 Education
 ======
 + **PhD in Mechanical Engineering**, late 2021 (expected).
@@ -33,7 +33,7 @@ Wuhan, China.
 _Roger Williams University._
 Bristol, RI, United States of America.
 
-
+---
 Contact
 ======
 jiewen.lai [æ] polyu [ð] edu [ð] hk
@@ -46,9 +46,9 @@ EF313, ME, PolyU, Hung Hom, KLN, HKSAR
 
 
 ---
-<small><script>
+<body><small><script>
 function myFunction() {
   var x = new Date(document.lastModified);
   document.getElementById("demo").innerHTML = x;
 }
-</script></small>
+</script></small></body>
