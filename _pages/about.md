@@ -51,3 +51,5 @@ EF313, ME, PolyU, Hung Hom, KLN, HKSAR
 ---
 
 <small><script type="text/javascript"> document.write("Page was last modified on: " + document.lastModified + " HKT");</script></small>
+
+<small><script type="text/javascript"> document.write("Page was last modified on: + (new Date(document.lastModified)).getYear() +"/"+ ((new Date(document.lastModified)).getMonth()+1) +"/"+(new Date(document.lastModified)).getDate()  + " HKT");</script></small>
