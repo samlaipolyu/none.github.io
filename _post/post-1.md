@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Website Launching"
 collection: post
 type: "post"
 permalink: /post/post-1
 date: 2020-05-04
-location: "City, Country"
+location: "A random Starbucks, Hong Kong"
 ---
 
 Hello world.
