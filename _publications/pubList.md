@@ -28,7 +28,7 @@ redirect_from:
 
 * **J. Lai**, K. Huang and H. K. Chu, "A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 576-582. ([_Best Paper Finalist Award._](https://www.polyu.edu.hk/me/me-phd-student-awarded-best-paper-finalist-in-robio-2019/)) [@paper](https://ieeexplore.ieee.org/document/8961669)
 
-* K. Huang, Z. Cui, I. Ajamieh, **J. Lai**, J. K. Mills, and H. K. Chu, “Automated Single-Particle Micropat-terning System using Dielectrophoresis,” 2020 IEEE International Conference on Automation Scienceand Engineering (CASE), Hong Kong, China, 2020. (_Under Review_) [@video](https://youtu.be/EQhd-nqbMF0)
+* K. Huang, Z. Cui, I. Ajamieh, **J. Lai**, J. K. Mills and H. K. Chu, “Automated Single-Particle Micropatterning System using Dielectrophoresis,” 2020 IEEE International Conference on Automation Science and Engineering (CASE), Hong Kong, China, 2020. (_Under Review_) [@video](https://youtu.be/EQhd-nqbMF0)
 
 * K. Huang, H. K. Chu, B. Lu, **J. Lai** and L. Cheng, "Automated Cell Patterning System with a Microchip using Dielectrophoresis," 2019 International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 2019, pp. 634-639. [@paper](https://ieeexplore.ieee.org/document/8794177)
 
