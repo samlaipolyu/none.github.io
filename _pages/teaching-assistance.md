@@ -19,6 +19,4 @@ redirect_from:
 ## Final Year Project of B.Eng.(Hon.) in ME of The Hong Kong Polytechnic University
 * C. F. Lam, Y. H. Leung, Barry S. F. Ho, “Development of a Robotic System for Cleaning and Inspection inside Tunnels,” The Hong Kong Polytechnic University, 2019.
 
-<!--![fyp2019](/images/fyp2019.png) -->
-
-<img src="Assets/icon.png" width="200">
+![fyp2019](/images/fyp2019.png){width=50%}
