@@ -5,7 +5,6 @@ type: "Oral Presentation"
 permalink: /talks/robio19
 venue: "ROBIO-2019"
 date: 2019-12-06
-excerpt: <img src="/images/fyp2019.png" width="512" height="288" />
 location: "Hilton Resort, Dali, China"
 ---
 
