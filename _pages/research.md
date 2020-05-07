@@ -23,7 +23,7 @@ The aim of this project is to develop a surgical-competent miniaturized soft con
 
 The bending curvature is estimated by vision.  
 
-<iframe width="128" src="https://www.youtube.com/embed/llZsSwqj-_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/llZsSwqj-_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   Acknowledgement: [Dr. B. Lu](https://lu-bo.github.io)
   
@@ -33,7 +33,7 @@ The bending curvature is estimated by vision.
 
 The manipulator configuration can be model-lessly controlled with a payload capacity.  
 
-<iframe width="128" src="https://www.youtube.com/embed/_yy3LjOx5cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="128" height="72" src="https://www.youtube.com/embed/_yy3LjOx5cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ## Reference  
