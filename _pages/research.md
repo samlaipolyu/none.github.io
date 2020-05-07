@@ -14,4 +14,4 @@ redirect_from:
 </p> -->
 
   <p class="full-width"><iframe width="560" height="315" src="https://www.youtube.com/embed/llZsSwqj-_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-  acknowledgement: [Dr. B. Lu](https://lu-bo.github.io)
+  Acknowledgement: [Dr. B. Lu](https://lu-bo.github.io)
