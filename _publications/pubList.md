@@ -11,7 +11,7 @@ redirect_from:
 
 ## Peer-review Journals
 
-* B. Lu, X. Yu, <strong>J. Lai</strong>, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, April 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
+* B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, April 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
 
 * B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," in IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25, no. 2, pp. 792-803, April 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
 
