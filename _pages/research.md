@@ -33,7 +33,18 @@ The bending curvature is estimated by vision.
 
 The manipulator configuration can be model-lessly controlled with a payload capacity.  
 
-<iframe width="128" height="72" src="https://www.youtube.com/embed/_yy3LjOx5cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<Video
+      ref={p => { this.videoPlayer = p; }}
+      source={{uri: https://www.youtube.com/embed/_yy3LjOx5cc }}
+      resizeMode={"contain"}
+      style={{
+        aspectRatio: width/height,
+        width: "50%"
+      }}
+      controls={true}
+/>
+
+<!-- <iframe width="128" height="72" src="https://www.youtube.com/embed/_yy3LjOx5cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ---
 ## Reference  
