@@ -15,5 +15,5 @@ redirect_from:
 
 <!--  <p class="full-width"><iframe width="560" height="315" src="https://www.youtube.com/embed/llZsSwqj-_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   ![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"} -->
-  ![](https://www.youtube.com/embed/llZsSwqj-_Y){width="90%"}
+  ![](https://www.youtube.com/embed/llZsSwqj-_Y){width="50%"}
   Acknowledgement: [Dr. B. Lu](https://lu-bo.github.io)
