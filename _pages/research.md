@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Soft continuum robot"
+title: "Soft Continuum Robot"
 permalink: /research/
 author_profile: true
 redirect_from:
