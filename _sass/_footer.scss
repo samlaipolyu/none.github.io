@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .page__footer {
+  @include full();
   @include clearfix;
   float: left;
   margin-left: 0;
@@ -26,6 +27,7 @@
   border-top: 1px solid $light-gray;*/
 
   footer {
+    @include container;
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
