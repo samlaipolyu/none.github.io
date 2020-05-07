@@ -13,7 +13,7 @@ redirect_from:
 
 _Soft Robotics_ is the specific subfield of robotics dealing with constructing robots from highly compliant materials, similar to those found in living organisms [[1]](https://www.hindawi.com/journals/abb/2008/520417/). In contrast to robots built from rigid materials, soft robots allow for increased flexibility and adaptability for accomplishing tasks, as well as improved safety when working around humans [[2]](https://www.nature.com/articles/nature14543.pdf). These characteristics allow for its potential use in the fields of robotic surgeries.
 
-The aim of this project is to develop a surgical-competent miniaturized soft continuum robotic system. The project will focus on the design, control, and automation of the soft continuum robotic system.
+The aim of this project is to develop a surgical-competent miniaturized soft continuum robotic system. The project will focus on the design, control, and automation of the soft-bodied continuum robotic system.
 
 ![surface](/images/surface.png)
 
