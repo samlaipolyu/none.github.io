@@ -15,7 +15,8 @@ _Soft Robotics_ is the specific subfield of robotics dealing with constructing r
 
 The aim of this project is to develop a surgical-competent miniaturized soft continuum robotic system. The project will focus on the design, control, and automation of the soft-bodied continuum robotic system.
 
-![surface](/images/surface.png)
+<!-- ![surface](/images/surface.png) -->
+<img src="/images/surface.png" width="600" />
 
 ---
 ## Curvature tracking of a one-section soft continuum robot  
