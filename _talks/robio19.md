@@ -5,6 +5,7 @@ type: "Oral Presentation"
 permalink: /talks/robio19
 venue: "ROBIO-2019"
 date: 2019-12-06
+excerpt: ![dali](/images/dali.jpg)
 location: "Hilton Resort, Dali, China"
 ---
 
