@@ -1,5 +1,7 @@
 ### Sam Jiewen Lai's Homepage.
 ---
 
-The theme is forked from [academicpages](https://academicpages.github.io).
-Open sourced under the [MIT license](/LICENSE).
+* Homepage is [here](https://samlaipolyu.github.io).
+* The theme is forked from [Academic Pages](https://academicpages.github.io). 
+* Dark theme is customized. The original is white tho.
+* Open sourced under the [MIT license](/LICENSE).
