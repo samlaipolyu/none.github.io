@@ -38,7 +38,7 @@ The manipulator configuration can be model-lessly controlled with a payload capa
 ---
 ## 3D reconstruction of the soft manipulator using RGB-D sensor
 
-<img src="/images/depthImg.png" width="600" />
+<img src="/images/depthImgg.png" width="600" />
 
 
 
