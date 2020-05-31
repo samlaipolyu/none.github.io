@@ -13,7 +13,7 @@ Sam Jiewen Lai is a year three PhD candidate from the [Department of Mechanical 
 
 Sam's research interests include but not limit to robotics, machine learning, computer vision, and tissue engineering. Sam is a member of IEEE (S'20) Robotics & Automation Society (RAS). Currently he is working on the development of surgical continuum robot system.
 
-
+None of my projects are related or funded by military:)
 
 ---
 
