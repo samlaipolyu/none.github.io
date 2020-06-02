@@ -2,7 +2,7 @@
 title: "Toward Vision-based Adaptive Configuring of a Bidirectional Two-Segment Soft Continuum Manipulator"
 collection: talks
 type: "Oral Presentation"
-permalink: /talks/emaew_2019
+permalink: /talks/aim_2020
 venue: "AIM-2020"
 date: 2020-07-06
 location: "Boston, MA, USA"
