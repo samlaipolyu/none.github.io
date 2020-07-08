@@ -52,4 +52,4 @@ Kowloon, Hong Kong, CHINA.
 
 <!-- <small><script type="text/javascript"> document.write("Page was last modified on: " + document.lastModified + " HKT");</script></small> -->
 
-<small><script type="text/javascript"> document.write("Page was last modified on: May 31, 2020");</script></small>
+<small><script type="text/javascript"> document.write("Page was last modified on: July 9, 2020");</script></small>
