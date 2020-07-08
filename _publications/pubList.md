@@ -11,6 +11,8 @@ redirect_from:
 
 ## Peer-review Journals
 
+* **J. Lai**, K. Huang, B. Lu and H. K. Chu, "Verticalized-Tip Trajectory Tracking of \\A 3D-Printable Soft Continuum Robot:\\Enabling Surgical Blood Suction Automation," in _IEEE Transactions on Robotics (T-RO)_. (To be submitted)
+
 * B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, vol. 17, no. 2, pp. 858-870, April 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
 
 * B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_, vol. 25, no. 2, pp. 792-803, April 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
