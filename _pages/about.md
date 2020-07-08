@@ -40,7 +40,8 @@ Contact
 <!-- jiewen.lai [æ] polyu [ð] edu [ð] hk -->
 jiewen.lai@polyu.edu.hk
 
-EF313, ME, PolyU, Hung Hom, KLN, HKSAR
+EF313, Chan Sui Wai Building, The Hong Kong Polytechnic University,
+Kowloon, Hong Kong, CHINA. 
 
 (+852) 5267 7992
 
