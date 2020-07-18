@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Sam Jiewen Lai is a year three PhD candidate from the [Department of Mechanical Engineering of The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/me/), under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). Prior to the PhD study, he got his master's degree of mechanical and automation engineering in The Chinese University of Hong Kong (CUHK) in 2017 under the supervision of [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu), and bachelor’s degrees of metallurgical engineering in Wuhan University of Science and Technolgy (WUST) in 2016.
+Sam Jiewen Lai is a year three PhD student from the [Department of Mechanical Engineering of The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/me/), under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and co-supervision of [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). Prior to his PhD study, he obtained his M.Sc. degree in mechanical and automation engineering from The Chinese University of Hong Kong (CUHK) in 2017 under the supervision of [Prof. Yun-hui Liu](http://ri.cuhk.edu.hk/yhliu), and B.Eng. degree in metallurgical engineering from Wuhan University of Science and Technolgy (WUST) in 2016.
 
-Sam's research interests include but not limit to robotics, machine learning, computer vision, and tissue engineering. Sam is a member of IEEE (S'20) Robotics & Automation Society (RAS). Currently he is working on the development of surgical continuum robot system.
+His research interests include soft robotics, robot learning, computer vision, and surgical robotic system. He is a student member of IEEE Robotics & Automation Society (RAS) since 2020. Currently he is working on the development of surgical continuum robot system.
 
 ---
 
@@ -51,4 +51,4 @@ EF313, ME, POLYU, KLN, HKSAR
 
 <!-- <small><script type="text/javascript"> document.write("Page was last modified on: " + document.lastModified + " HKT");</script></small> -->
 
-<small><script type="text/javascript"> document.write("Page was last modified on: July 9, 2020");</script></small>
+<small><script type="text/javascript"> document.write("Page was last modified on: July 18, 2020");</script></small>
