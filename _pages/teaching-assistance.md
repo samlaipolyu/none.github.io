@@ -16,7 +16,7 @@ redirect_from:
 * ME42001 Artificial Intelligence in Products (BEng course). _2018, 2019_
 
 
-## Final Year Project of B.Eng.(Hon.) in ME of The Hong Kong Polytechnic University
+## Final Year Project: B.Eng. (Hon.), ME Dept., The Hong Kong Polytechnic University
 * C. F. Lam, Y. H. Leung, Barry S. F. Ho, “Development of a Robotic System for Cleaning and Inspection inside Tunnels,” The Hong Kong Polytechnic University, 2019.
 
 ![fyp2019](/images/fyp2019.png)
