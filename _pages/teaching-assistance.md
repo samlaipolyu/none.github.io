@@ -20,4 +20,7 @@ redirect_from:
 * C. F. Lam, Y. H. Leung, Barry S. F. Ho, “Development of a Robotic System for Cleaning and Inspection inside Tunnels,” The Hong Kong Polytechnic University, 2019.
 
 ![fyp2019](/images/fyp2019.png)
+![fyp1](/images/1.png)
+![fyp2](/images/2.png)
+![fyp3](/images/3.png)
 <!-- <img src="/images/fyp2019.png" width="512" height="288" /> -->
