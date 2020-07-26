@@ -28,7 +28,7 @@ redirect_from:
 
 ## Peer-review Conference Proceedings 
 
-* **J. Lai**, K. Huang, B. Lu and H. K. Chu, "Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator," in _2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)_, Boston, MA, USA, 2020. (_Accepted_) [@paper](/files/aim20_fi.pdf) [@video](https://youtu.be/_yy3LjOx5cc) 
+* **J. Lai**, K. Huang, B. Lu and H. K. Chu, "Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator," in _2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)_, Boston, MA, USA, 2020, pp. 934-939. [@paper](/files/aim20_fi.pdf) [@video](https://youtu.be/_yy3LjOx5cc) 
 
 * **J. Lai**, K. Huang and H. K. Chu, "A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping," in _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_, Dali, China, 2019, pp. 576-582. ([_Best Paper Finalist Award._](https://www.polyu.edu.hk/me/me-phd-student-awarded-best-paper-finalist-in-robio-2019/)) [@paper](https://ieeexplore.ieee.org/document/8961669)
 
