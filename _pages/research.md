@@ -46,9 +46,7 @@ The manipulator configuration can be model-lessly controlled with a payload capa
 
 *Soft Robot Tip Trajectory Tracking* with its Tip Orientation remains vertical to the Ground. Configuration scheme is assigned to the soft manipulator so that it can hold its tip pointing direction while tracking a user-defined trajectory. The idea is motivated by surgical blood aspirator, which in the current stage, a manual-tool manipulated by assistant surgeon. The aim is to design an automated blood suction soft manipulator for robot-assisted minimally invasive surgeries (RMIS). A paper entitled *Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation* is going to submit to T-MECH.
 
-<iframe width="128" height="72" src="https://youtu.be/lsoVwXCSKi0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
-
-
+<iframe width="128" height="72" src="https://www.youtube.com/embed/lsoVwXCSKi0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ## Reference  
 [[1]](https://www.hindawi.com/journals/abb/2008/520417/) D. Trivedi, C. D. Rahn, W. M. Kier, and I. D. Walker, "Soft robotics: Biological inspiration, state of the art, and future research," in _Applied bionics and biomechanics_, 5(3). pp. 99-117, 2008.  
