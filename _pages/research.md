@@ -49,5 +49,5 @@ The manipulator configuration can be model-lessly controlled with a payload capa
 <iframe width="128" height="72" src="https://www.youtube.com/embed/lsoVwXCSKi0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ## Reference  
-[[1]](https://www.hindawi.com/journals/abb/2008/520417/) D. Trivedi, C. D. Rahn, W. M. Kier, and I. D. Walker, "Soft robotics: Biological inspiration, state of the art, and future research," in _Applied bionics and biomechanics_, 5(3). pp. 99-117, 2008.  
+[[1]](https://www.hindawi.com/journals/abb/2008/520417/) D. Trivedi, C. D. Rahn, W. M. Kier, and I. D. Walker, "Soft robotics: Biological inspiration, state of the art, and future research," in _Applied Bionics and Biomechanics_, 5(3). pp. 99-117, 2008.  
 [[2]](https://www.nature.com/articles/nature14543.pdf) D. Rus, and M. T. Tolley, "Design, fabrication and control of soft robots," in _Nature_, 521(7553), pp. 467-475, May 2015.
