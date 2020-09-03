@@ -38,7 +38,8 @@ Bristol, RI, United States of America.
 Contact
 ======
 <!-- jiewen.lai [æ] polyu [ð] edu [ð] hk -->
-jiewen.lai@polyu.edu.hk
+
+jw [ð] lai [æ] connect [ð] polyu [ð] hk
 
 EF313, ME, POLYU, KLN, HKSAR
 
