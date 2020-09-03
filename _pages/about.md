@@ -50,4 +50,4 @@ EF313, ME, POLYU, KLN, HKSAR
 
 <!-- <small><script type="text/javascript"> document.write("Page was last modified on: " + document.lastModified + " HKT");</script></small> -->
 
-<small><script type="text/javascript"> document.write("Page was last modified on: July 18, 2020");</script></small>
+<small><script type="text/javascript"> document.write("Page was last modified on: September 1, 2020");</script></small>
