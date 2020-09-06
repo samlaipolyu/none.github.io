@@ -29,9 +29,7 @@ Hong Kong, China.
 _Dept. of Metallurgical Engineering._
 _Wuhan University of Science and Technology._
 Wuhan, China.
-+ **Summer School**, 2014.
-_Roger Williams University._
-Bristol, RI, United States of America.
+
 
 ---
 
