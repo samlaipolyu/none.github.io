@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Sam Jiewen Lai is a year three PhD student from the [Department of Mechanical Engineering of The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/me/), under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and co-supervision of [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). Prior to his PhD study, he obtained his M.Sc. degree in mechanical and automation engineering from The Chinese University of Hong Kong (CUHK) in 2017 under the supervision of [Prof. Yun-hui Liu](http://ri.cuhk.edu.hk/yhliu), and B.Eng. degree in metallurgical engineering from Wuhan University of Science and Technolgy (WUST) in 2016.
+I am a PhD student from the [Department of Mechanical Engineering of The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/me/), under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and co-supervision of [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). Prior to that, I received my M.Sc. in mechanical and automation engineering from The Chinese University of Hong Kong (CUHK) in 2017 under the supervision of [Prof. Yun-hui Liu](http://ri.cuhk.edu.hk/yhliu), and B.Eng. in metallurgical engineering from Wuhan University of Science and Technolgy (WUST) in 2016.
 
-His research interests include soft robotics, robot learning, computer vision, and surgical robotic system. He is a student member of IEEE Robotics & Automation Society (RAS) since 2020. Currently he is working on the development of surgical continuum robot system.
+My research interests include soft robotics, robot learning, computer vision, and surgical robotic system. Currently I am working on the development of surgical continuum robot system.
 
 ---
 
