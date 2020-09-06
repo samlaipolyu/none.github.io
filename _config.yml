@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Jiewen Lai"
 title_separator          : "-"
 name                     : &name "Sam Jiewen Lai"
-description              : &description "PhD candidate at The Hong Kong Polytechnic University"
+description              : &description "PhD student at The Hong Kong Polytechnic University"
 url                      : https://samlaipolyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samlaipolyu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             :  "Sam Jiewen Lai"
   avatar           :  "drawing.jpg"
-  bio              :  "PhD candidate at The Hong Kong Polytechnic University"
+  bio              :  "PhD student at The Hong Kong Polytechnic University"
   location         :  "Hong Kong, China"
   employer         :
   pubmed           : 
@@ -99,7 +99,7 @@ author:
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        : "samlai333"
+  instagram        : #"samlai333"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
