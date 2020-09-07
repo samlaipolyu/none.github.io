@@ -8,7 +8,7 @@ date: 2019-12-06
 location: "Hilton Resort, Dali, China"
 ---
 
-Presentation @[ROBIO2019](https://www.robio.org/). December 6 happens to be my birthday and ROBIO nominated me as the best paper award. Maybe they knew it all.
+Presentation @[ROBIO2019](https://www.robio.org/). December 6 happens to be my birthday and ROBIO nominated me as the best paper award.
 
 
 Dali is a chill place. Go visit in winter.
