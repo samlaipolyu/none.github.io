@@ -8,7 +8,7 @@ date: 2019-05-30
 location: "Korea University, Seoul, South Korea"
 ---
 
-Presentation @[EMAEW2019](https://sites.google.com/view/emae-2019/home). The 9th East Asia Mechanical and Aerospace Engineering Workshop (EMAEW) was hosted by the Department of Mechanical Engineering at Korea University from May 30 to June 1, 2019 in Seoul, South Korea. This annual workshop serves as an academic forum for reporting the recent advance on mechanical and aerospace engineering research and promoting the international collaboration among Hokkaido University (北海道大学), National Cheng Kung University (國立成功大學), Hong Kong Polytechnic University (香港理工大學), and Korea University (高麗大學).
+Presentation @[EMAEW2019](https://sites.google.com/view/emae-2019/home). The 9th East Asia Mechanical and Aerospace Engineering Workshop (EMAEW) was hosted by the Department of Mechanical Engineering at Korea University from May 30 to June 1, 2019 in Seoul, South Korea. This annual workshop serves as an academic forum for reporting the recent advance on mechanical and aerospace engineering research and promoting the international collaboration among Hokkaido University, National Cheng Kung University, Hong Kong Polytechnic University, and Korea University.
 
 
 
