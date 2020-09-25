@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student from [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/), The Hong Kong Polytechnic University (PolyU) under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and the co-supervision of [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). Prior to that, I received my M.Sc. in mechanical and automation engineering from The Chinese University of Hong Kong (CUHK) in 2017 under the advisory of [Prof. Yun-hui Liu](http://ri.cuhk.edu.hk/yhliu), and B.Eng. in metallurgical engineering from Wuhan University of Science and Technolgy (WUST) in 2016.
+I am a PhD student from [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/), The Hong Kong Polytechnic University (PolyU) under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and the co-supervision of [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/).
 
 My research interests include soft robotics, robot learning, computer vision, and surgical robotic system. Currently I am working on the development of surgical continuum robot system.
 
