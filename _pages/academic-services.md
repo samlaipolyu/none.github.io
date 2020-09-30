@@ -7,7 +7,7 @@ redirect_from:
   - /academic-services
 ---
 
-## Reviewer of Journals
+## Reviewer of Journal
 
 * [Journal of Robotics](https://www.hindawi.com/journals/jr/?utm_source=google&utm_medium=cpc&utm_campaign=HDW_MRKT_GBL_SUB_ADWO_PAI_DYNA_JOUR_X&gclid=CjwKCAjw2dD7BRASEiwAWCtCb3C4ane-RjVzMzOwU0O4E0-db6E1K-hrpZon0I6lzEDUy7iG9uNjHxoCnOQQAvD_BwE)
 
