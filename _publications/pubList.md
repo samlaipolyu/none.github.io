@@ -15,7 +15,7 @@ redirect_from:
 
 * **J. Lai**, K. Huang, B. Lu, Q. Zhao and H. K. Chu, "Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Under Review_) [@video](https://www.youtube.com/watch?v=lsoVwXCSKi0&ab_channel=SamLAI)
 
-*  Q. Zhao, **J. Lai**, X. Hu and H. K. Chu, "Shape Estimation and Control of a Soft Continuum Robot under External Payloads," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_To be submitted_)
+*  Q. Zhao, **J. Lai**, K. Huang, X. Hu and H. K. Chu, "Shape Estimation and Control of a Soft Continuum Robot under External Payloads," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_To be submitted_)
 
 * B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, vol. 17, no. 2, pp. 858-870, April 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
 
