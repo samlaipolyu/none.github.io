@@ -11,7 +11,7 @@ redirect_from:
 
 ## Peer-review Journals
 
-* **J. Lai**, B. Lu and H. K. Chu, "On the Stiffness-Adaptiveness of A Dual-Segment Soft Robot using Depth Visual-Servoing," in _IEEE Robotics and Automation Letters (RA-L)_. 2020. (_Under Review_)
+* **J. Lai**, B. Lu and H. K. Chu, "On the Stiffness-Adaptiveness of A Dual-Segment Soft Robot using Depth Visual-Servoing," in _IEEE Robotics and Automation Letters (RA-L)_. 2020. (_Under Review_) [@video](https://youtu.be/QMHYsExF1JE)
 
 * **J. Lai**, K. Huang, B. Lu, Q. Zhao and H. K. Chu, "Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Under Review_) [@video](https://www.youtube.com/watch?v=lsoVwXCSKi0&ab_channel=SamLAI)
 
