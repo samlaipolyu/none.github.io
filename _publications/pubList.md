@@ -21,11 +21,13 @@ redirect_from:
 
 * B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_, vol. 25, no. 2, pp. 792-803, April 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
 
-* K. Huang, I. A. Ajamieh, Z. Cui, **J. Lai**, J. K. Mills and H. K. Chu, “Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers”, in _IEEE Transactions on Biomedical Engineering (T-BME)_, 2020. (_Under Review_)
+* K. Huang, Z. Cui, **J. Lai**, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,” in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, 2020. (_Under Review_)
+
+* K. Huang, I. A. Ajamieh, Z. Cui, **J. Lai**, J. K. Mills and H. K. Chu, “Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers”, in _IEEE Transactions on Biomedical Engineering (T-BME)_, 2020. [@paper](https://ieeexplore.ieee.org/document/9224187?denied=)
 
 * K. Huang, B. Lu, **J. Lai** and H. K. Chu, "Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis," in _IEEE Transactions on Biomedical Circuits and Systems (T-BCaS)_, vol. 13, no. 5, pp. 1063-1074, Oct. 2019. [@paper](https://ieeexplore.ieee.org/document/8818352)
 
-* K. Huang, Z. Cui, **J. Lai**, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,” in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, 2020. (_Under Review_)
+
 
 
 ---
