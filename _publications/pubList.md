@@ -25,7 +25,7 @@ redirect_from:
 
 * K. Huang, I. A. Ajamieh, Z. Cui, **J. Lai**, J. K. Mills and H. K. Chu, “Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers”, in _IEEE Transactions on Biomedical Engineering (T-BME)_, 2020. [@paper](https://ieeexplore.ieee.org/document/9224187?denied=)
 
-* K. Huang, B. Lu, **J. Lai** and H. K. Chu, "Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis," in _IEEE Transactions on Biomedical Circuits and Systems (T-BCaS)_, vol. 13, no. 5, pp. 1063-1074, Oct. 2019. [@paper](https://ieeexplore.ieee.org/document/8818352)
+* K. Huang, B. Lu, **J. Lai** and H. K. Chu, "Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis," in _IEEE Transactions on Biomedical Circuits and Systems (T-BioCAS)_, vol. 13, no. 5, pp. 1063-1074, Oct. 2019. [@paper](https://ieeexplore.ieee.org/document/8818352)
 
 
 
