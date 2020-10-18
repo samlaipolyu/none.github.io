@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD student from [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/), The Hong Kong Polytechnic University (PolyU) under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and the co-supervision of [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/).
 
-My research interests include soft robotics, robot learning, computer vision, and surgical robotic system. Currently I am working on the development of surgical continuum robot system.
+My research interests include soft robotics, robot learning, computer vision, and surgical robotic system. Currently I am working on the full-stack development of surgical soft-bodied continuum robot system which involves design, prototype frabrcation, modeling, model-based/model-free control, and application.
 
 ---
 
@@ -48,4 +48,4 @@ EF313, PolyU, Hung Hom, KLN, Hong Kong.
 
 <!-- <small><script type="text/javascript"> document.write("Page was last modified on: " + document.lastModified + " HKT");</script></small> -->
 
-<small><script type="text/javascript"> document.write("Page was last modified on: September 1, 2020");</script></small>
+<small><script type="text/javascript"> document.write("Page was last modified on: October 15, 2020");</script></small>
