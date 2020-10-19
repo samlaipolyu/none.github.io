@@ -50,4 +50,3 @@ EF313, PolyU, Hung Hom, KLN, Hong Kong.
 
 <small><script type="text/javascript"> document.write("Page was last modified on: October 15, 2020");</script></small>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pWPP3H6tu6piSitaO1ly8AJ_73sTJ9bEIzk5Pzekk6o"></script>
