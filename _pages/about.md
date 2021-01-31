@@ -37,7 +37,7 @@ Contact
 ======
 <!-- jiewen.lai [æ] polyu [ð] edu [ð] hk -->
 
-jw [ð] lai [æ] connect [ð] polyu [ð] hk
+jw.lai [at] connect.polyu.hk
 
 EF313, PolyU, Hung Hom, KLN, Hong Kong.
 
