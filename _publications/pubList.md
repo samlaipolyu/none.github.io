@@ -19,7 +19,7 @@ redirect_from:
 
 *  Q. Zhao, **J. Lai**, K. Huang, X. Hu and H. K. Chu, "Shape Estimation and Control of a Soft Continuum Robot under External Payloads," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Major Revision_)
 
-* B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, vol. 17, no. 2, pp. 858-870, April 2020. [<img src="/images/pdf_icon.svg" width="18" />](https://ieeexplore.ieee.org/document/8913674)
+* B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, vol. 17, no. 2, pp. 858-870, April 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
 
 * B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_, vol. 25, no. 2, pp. 792-803, April 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
 
