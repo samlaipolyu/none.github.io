@@ -9,11 +9,13 @@ redirect_from:
 
 
 
-## Peer-review Journals
+## Journal Articles
 
-* **J. Lai**, B. Lu, Q. Zhao and H. K. Chu, "Constrained Motion Planning of A Cable-Driven Soft Robot with Compressible Curvature Modeling," in _IEEE Robotics and Automation Letter (R-AL)_. 2021. (_Submitting_) [@video](https://youtu.be/Zb3cA3hTvKg)
+* **J. Lai**, B. Lu, and H. K. Chu, "GesSo: A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control," TBD. 2021.
 
-* **J. Lai**, B. Lu and H. K. Chu, "Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2021. (_Accepted_) [@video](https://youtu.be/QMHYsExF1JE)
+* **J. Lai**, B. Lu, Q. Zhao and H. K. Chu, "Constrained Motion Planning of A Cable-Driven Soft Robot with Compressible Curvature Modeling," in _IEEE Robotics and Automation Letter (R-AL)_. 2021. (_Under Review_) [@video](https://youtu.be/Zb3cA3hTvKg)
+
+* **J. Lai**, B. Lu and H. K. Chu, "Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2021. [@paper](https://ieeexplore.ieee.org/document/9427246) [@video](https://youtu.be/QMHYsExF1JE)
 
 * **J. Lai**, K. Huang, B. Lu, Q. Zhao and H. K. Chu, "Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Minor Revision_) [@video](https://youtu.be/hS9taWGyeVc)
 
