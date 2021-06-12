@@ -17,7 +17,7 @@ redirect_from:
 
 * **J. Lai**, B. Lu and H. K. Chu, "Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2021. [@paper](https://ieeexplore.ieee.org/document/9427246) [@video](https://youtu.be/QMHYsExF1JE)
 
-* **J. Lai**, K. Huang, B. Lu, Q. Zhao and H. K. Chu, "Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Minor Revision_) [@video](https://youtu.be/hS9taWGyeVc)
+* **J. Lai**, K. Huang, B. Lu, Q. Zhao and H. K. Chu, "Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Accepted_) [@video](https://youtu.be/hS9taWGyeVc)
 
 *  Q. Zhao, **J. Lai**, K. Huang, X. Hu and H. K. Chu, "Shape Estimation and Control of a Soft Continuum Robot under External Payloads," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Major Revision_)
 
