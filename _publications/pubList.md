@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-## Journal Articles
+## Journal Papers
 
 * **J. Lai**, B. Lu, and H. K. Chu, "GesSo: A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control," IEEE Transactions on Biomedical Engineering (T-BME). 2021. (_Under Review_)
 * **J. Lai**, B. Lu, Q. Zhao and H. K. Chu, "Constrained Motion Planning of A Cable-Driven Soft Robot with Compressible Curvature Modeling," in _IEEE Robotics and Automation Letter (R-AL)_. 2021. (_Under Review_) [@video](https://youtu.be/Zb3cA3hTvKg)
@@ -18,26 +18,18 @@ redirect_from:
 *  Q. Zhao, **J. Lai**, K. Huang, X. Hu and H. K. Chu, "Shape Estimation and Control of a Soft Continuum Robot under External Payloads," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Major Revision_)
 * B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, vol. 17, no. 2, pp. 858-870, April 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
 * B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," in _IEEE/ASME Transactions on Mechatronics (T-MECH)_, vol. 25, no. 2, pp. 792-803, April 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
-
-* K. Huang, Z. Cui, **J. Lai**, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,” in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, 2020. (_Accepted_)
-
+* K. Huang, Z. Cui, **J. Lai**, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,” in _IEEE Transactions on Automation Science and Engineering (T-ASE)_, 2020. [@paper](https://ieeexplore.ieee.org/document/9377561)
 * K. Huang, I. A. Ajamieh, Z. Cui, **J. Lai**, J. K. Mills and H. K. Chu, “Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers”, in _IEEE Transactions on Biomedical Engineering (T-BME)_, 2020. [@paper](https://ieeexplore.ieee.org/document/9224187?denied=)
-
 * K. Huang, B. Lu, **J. Lai** and H. K. Chu, "Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis," in _IEEE Transactions on Biomedical Circuits and Systems (T-BCAS)_, vol. 13, no. 5, pp. 1063-1074, Oct. 2019. [@paper](https://ieeexplore.ieee.org/document/8818352)
-
-
 
 
 ---
 
-## Peer-review Conference Proceedings 
+## Conference Papers
 
 * **J. Lai**, K. Huang, B. Lu and H. K. Chu, "Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator," in _2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)_. [@paper](https://ieeexplore.ieee.org/document/9158975) [@video](https://youtu.be/_yy3LjOx5cc) 
-
 * **J. Lai**, K. Huang and H. K. Chu, "A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping," in _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_. ([_Best Paper Finalist Award_](https://www.polyu.edu.hk/me/me-phd-student-awarded-best-paper-finalist-in-robio-2019/)) [@paper](https://ieeexplore.ieee.org/document/8961669)
-
 * K. Huang, Z. Cui, I. Ajamieh, **J. Lai**, J. K. Mills and H. K. Chu, “Automated Single-Particle Micropatterning System using Dielectrophoresis,” in _2020 IEEE International Conference on Automation Science and Engineering (CASE)_. [@paper](https://ieeexplore.ieee.org/abstract/document/9216820) [@video](https://youtu.be/EQhd-nqbMF0)
-
 * K. Huang, H. K. Chu, B. Lu, **J. Lai** and L. Cheng, "Automated Cell Patterning System with a Microchip using Dielectrophoresis," in _2019 International Conference on Robotics and Automation (ICRA)_. [@paper](https://ieeexplore.ieee.org/document/8794177)
 
 
