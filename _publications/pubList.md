@@ -28,7 +28,7 @@ redirect_from:
 ## Conference Papers
 
 * **J. Lai**, K. Huang, B. Lu and H. K. Chu, "Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator," in _2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)_. [@paper](https://ieeexplore.ieee.org/document/9158975) [@video](https://youtu.be/_yy3LjOx5cc) 
-* **J. Lai**, K. Huang and H. K. Chu, "A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping," in _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_. ([_Best Paper Finalist Award_](https://www.polyu.edu.hk/me/me-phd-student-awarded-best-paper-finalist-in-robio-2019/)) [@paper](https://ieeexplore.ieee.org/document/8961669)
+* **J. Lai**, K. Huang and H. K. Chu, "A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping," in _2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)_. [_@Best Paper Finalist Award_](https://www.polyu.edu.hk/me/me-phd-student-awarded-best-paper-finalist-in-robio-2019/) [@paper](https://ieeexplore.ieee.org/document/8961669)
 * K. Huang, Z. Cui, I. Ajamieh, **J. Lai**, J. K. Mills and H. K. Chu, “Automated Single-Particle Micropatterning System using Dielectrophoresis,” in _2020 IEEE International Conference on Automation Science and Engineering (CASE)_. [@paper](https://ieeexplore.ieee.org/abstract/document/9216820) [@video](https://youtu.be/EQhd-nqbMF0)
 * K. Huang, H. K. Chu, B. Lu, **J. Lai** and L. Cheng, "Automated Cell Patterning System with a Microchip using Dielectrophoresis," in _2019 International Conference on Robotics and Automation (ICRA)_. [@paper](https://ieeexplore.ieee.org/document/8794177)
 
