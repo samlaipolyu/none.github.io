@@ -19,7 +19,7 @@ redirect_from:
 --
 
 * **J. Lai**, B. Lu and H. K. Chu, "Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2021. [@paper](https://ieeexplore.ieee.org/document/9427246) [@video](https://youtu.be/QMHYsExF1JE)
-* **J. Lai**, K. Huang, B. Lu, Q. Zhao and H. K. Chu, "Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Accepted_) [@video](https://youtu.be/hS9taWGyeVc)
+* **J. Lai**, K. Huang, B. Lu, Q. Zhao and H. K. Chu, "Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Accepted_) [@video](https://youtu.be/_5zb7vnvwkA)
 * B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," _IEEE Transactions on Automation Science and Engineering (T-ASE)_. 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
 * B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
 * K. Huang, Z. Cui, **J. Lai**, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,” _IEEE Transactions on Automation Science and Engineering (T-ASE)_. 2020. [@paper](https://ieeexplore.ieee.org/document/9377561)
