@@ -11,11 +11,15 @@ redirect_from:
 
 ## Journal Papers
 
-* **J. Lai**, B. Lu, and H. K. Chu, "GesSo: A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control," _IEEE Transactions on Biomedical Engineering (T-BME)_, 2021. (_Under Review_)
-* **J. Lai**, B. Lu, Q. Zhao and H. K. Chu, "Constrained Motion Planning of A Cable-Driven Soft Robot with Compressible Curvature Modeling," _IEEE Robotics and Automation Letter (R-AL)_. 2021. (_Under Review_) [@video](https://youtu.be/Zb3cA3hTvKg)
+* **J. Lai**, B. Lu, and H. K. Chu, "GesSo: A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control," _IEEE Transactions on Biomedical Engineering (T-BME)_, 2021. (_Under Review_) [@video1](https://youtu.be/C1NUudoweUs) [@video2](https://youtu.be/-SZDHfevCCg)
+* **J. Lai**, B. Lu, Q. Zhao and H. K. Chu, "Constrained Motion Planning of A Cable-Driven Soft Robot with Compressible Curvature Modeling," _IEEE Robotics and Automation Letter (R-AL)_. 2021. (_Under Review_) [@arXiv](https://arxiv.org/abs/2106.08250) [@video1](https://youtu.be/Zb3cA3hTvKgE) [@video2](https://youtu.be/CfRrfUAi4aQ)
+*  Q. Zhao, **J. Lai**, K. Huang, X. Hu and H. K. Chu, "Shape Estimation and Control of a Soft Continuum Robot under External Payloads," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Major Revision_)
+* Q. Zhao, **J. Lai**, and H. K. Chu, "Reconstructing External Force on the Circumferential Body of Continuum Robot with Embedded Proprioceptive Sensors," _IEEE Transactions on Industrial Electronics (T-IE)_. 2021. (_Under Review_)]
+
+--
+
 * **J. Lai**, B. Lu and H. K. Chu, "Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2021. [@paper](https://ieeexplore.ieee.org/document/9427246) [@video](https://youtu.be/QMHYsExF1JE)
 * **J. Lai**, K. Huang, B. Lu, Q. Zhao and H. K. Chu, "Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Accepted_) [@video](https://youtu.be/hS9taWGyeVc)
-*  Q. Zhao, **J. Lai**, K. Huang, X. Hu and H. K. Chu, "Shape Estimation and Control of a Soft Continuum Robot under External Payloads," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. (_Major Revision_)
 * B. Lu, X. Yu, **J. Lai**, K. Huang, K. C. C. Chan and H. K. Chu, "A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction," _IEEE Transactions on Automation Science and Engineering (T-ASE)_. 2020. [@paper](https://ieeexplore.ieee.org/document/8913674)
 * B. Lu, H. K. Chu, K. Huang and **J. Lai**, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," _IEEE/ASME Transactions on Mechatronics (T-MECH)_. 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
 * K. Huang, Z. Cui, **J. Lai**, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,” _IEEE Transactions on Automation Science and Engineering (T-ASE)_. 2020. [@paper](https://ieeexplore.ieee.org/document/9377561)
