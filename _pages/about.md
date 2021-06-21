@@ -9,10 +9,14 @@ redirect_from:
 ---
 
 
-I am a PhD student from [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/), The Hong Kong Polytechnic University (PolyU) under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and the co-supervision of [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/).
 
-My research interests include soft robotics, robot learning, computer vision, and surgical robotic system. Currently I am working on _the full-stack development_ of surgical soft-bodied continuum robot system which involves design, prototype fabrication, modeling, model-based/model-free control, and the potential applications in R-MIS.
+I am a PhD student at the [Dept. of ME](https://www.polyu.edu.hk/me/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk) under the supervision of [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/) and [Prof. Li Cheng](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/). My research intrests include robotics, robot learning, computer vision, and surgical robot system with a specific focus on soft robots. Currently, I am working on the development of an intuitive master-follower control system for a surgical-sized dexterous soft manipulator.
 
+I received the [Best Paper Finalist Award](https://www.polyu.edu.hk/me/me-phd-student-awarded-best-paper-finalist-in-robio-2019/) in IEEE ROBIO'19. I have been served as a reviewer for [IEEE/ASME T-MECH](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516) and [Journal of Robotics](https://www.hindawi.com/journals/jr/?utm_source=google&utm_medium=cpc&utm_campaign=HDW_MRKT_GBL_SUB_ADWO_PAI_DYNA_JOUR_X&gclid=CjwKCAjw8cCGBhB6EiwAgORey05lWxnHsGj6MDnHNrhP9D4DXIcY4DPx6TSVg2yATY0Q4MkkpRzT6xoC70IQAvD_BwE), and serveral [IEEE-RAS](https://www.ieee-ras.org/) conferences including IROS, ICRA, CASE, AIM, and ROBIO.
+
+Before joining PolyU, I obtained my master's degree in mechanical & automation engineering at [The Chinese University of Hong Kong (CUHK)](https://www4.mae.cuhk.edu.hk/) under the supervision of [Prof. Yun-Hui Liu](http://ri.cuhk.edu.hk/yhliu) in 2017. At the same year, I joined PolyU as an MPhil student recommended by [Prof. Ruxu Du](http://sourcedb.siat.cas.cn/yw/zjrc/200907/t20090713_2066905.html). Prior to that, I obtained my bachelor's degree in metallurgical engineering with distinction at [Wuhan University of Science and Technology](https://www.wust.edu.cn/english/) in 2016.
+
+My PhD thesis entitled [Development of A Soft Continuum Robot for Surgical Blood Suction]() has been submitted and is undergoing the external review process. Currently I am looking for postdoctoral position.
 ---
 
 Education
