@@ -17,6 +17,7 @@ I received the [Best Paper Finalist Award](https://www.polyu.edu.hk/me/me-phd-st
 Before joining PolyU, I obtained my master's degree in mechanical & automation engineering at [The Chinese University of Hong Kong (CUHK)](https://www4.mae.cuhk.edu.hk/) under the supervision of [Prof. Yun-Hui Liu](http://ri.cuhk.edu.hk/yhliu) in 2017. At the same year, I joined PolyU as an MPhil student recommended by [Prof. Ruxu Du](http://sourcedb.siat.cas.cn/yw/zjrc/200907/t20090713_2066905.html). Prior to that, I obtained my bachelor's degree in metallurgical engineering with distinction at [Wuhan University of Science and Technology](https://www.wust.edu.cn/english/) in 2016.
 
 My PhD thesis entitled [Development of A Soft Continuum Robot for Surgical Blood Suction]() has been submitted and is undergoing the external review process. Currently I am looking for postdoctoral position.
+
 ---
 
 Education
