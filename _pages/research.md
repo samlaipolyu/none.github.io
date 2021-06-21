@@ -69,7 +69,7 @@ J. Lai, K. Huang, B. Lu, Q. Zhao and H. K. Chu, [Verticalized-Tip Trajectory Tra
 
 A variable-stiffness control method based on pure cable actuation was proposed. With the aid of RGB-D visual feedback which monitors the positional deviation of the tip w.r.t. the model-predicted position caused by the undesired perturbation, the soft robot can be stiffened accordingly.
 
-<a href="http://https://youtu.be/hS9taWGyeVc"><img src="http://img.youtube.com/vi/hS9taWGyeVc/0.jpg"
+<a href="https://youtu.be/hS9taWGyeVc"><img src="http://img.youtube.com/vi/hS9taWGyeVc/0.jpg"
 alt="A cable shaping robot" width="400" height="300" border="10" /></a>
 
 
