@@ -25,8 +25,6 @@ In this project, the first-gen of the soft robot was made from
 Polydimethylsiloxane (PDMS) elastomer, and the second-gen was fabricated from Agilus30 resin using stereolithography 3D printing, both of which feature a small diameter down to 9 mm with a 100 mm length and actuated by nylon cables that are attached to the independent servo.
 
 <img src="/images/segment.jpg" width="300" />
-<img src="/images/rnd_motion.gif" width="300" />
-
 
 
 ### Curvature Tracking of A Signle Segment Soft Robot
@@ -77,9 +75,16 @@ J. Lai, B. Lu and H. K. Chu, [Variable-Stiffness Control of A Dual-Segment Soft 
 
 ### Constrained Motion Planning of A Cable-Driven Soft Robot with Compressible Curvature Modeling
 
+Based on a newly proposed compressible constant curvature model that considers axial compression, we developed a motion planning method for a cable-driven soft robot in constrained conditions, including the fixed orientation of the tip and in the presence of a known obstacle.
+
+<a href="https://youtu.be/Zb3cA3hTvKg"><img src="http://img.youtube.com/vi/Zb3cA3hTvKg/0.jpg"
+alt="A cable shaping robot" width="400" height="300" border="10" /></a>
+
 J. Lai, B. Lu, Q. Zhao and H. K. Chu, [Constrained Motion Planning of A Cable-Driven Soft Robot with Compressible Curvature Modeling](https://arxiv.org/abs/2106.08250), <font color = red>IEEE Robot. Autom. Lett. (RA-L)</font>. 2021. (Under Review)
 
 ### A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control
 
-J. Lai, B. Lu, and H. K. Chu, [GesSo: A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control](), <font color = red>IEEE Trans. Biomed. Eng. (T-BME)</font>, 2021. (Under Review)
 
+<a href="https://youtu.be/C1NUudoweUs"><img src="http://img.youtube.com/vi/C1NUudoweUs/0.jpg" alt="A cable shaping robot" width="300" border="10" /></a><a href="https://youtu.be/-SZDHfevCCg"><img src="http://img.youtube.com/vi/-SZDHfevCCg/0.jpg" alt="A cable shaping robot" width="300" border="10" /></a>
+
+J. Lai, B. Lu, and H. K. Chu, [GesSo: A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control](), <font color = red>IEEE Trans. Biomed. Eng. (T-BME)</font>, 2021. (Under Review)
