@@ -24,8 +24,8 @@ My research involves the full-stack development of a surgical-orientated soft ro
 In this project, the first-gen of the soft robot was made from 
 Polydimethylsiloxane (PDMS) elastomer, and the second-gen was fabricated from Agilus30 resin using stereolithography 3D printing, both of which feature a small diameter down to 9 mm with a 100 mm length and actuated by nylon cables that are attached to the independent servo.
 
-<img src="/img/segment.jpg" width="300" />
-<img src="/img/rnd_motion.gif" width="300" />
+<img src="/images/segment.jpg" width="300" />
+<img src="/images/rnd_motion.gif" width="300" />
 
 
 
@@ -33,7 +33,7 @@ Polydimethylsiloxane (PDMS) elastomer, and the second-gen was fabricated from Ag
 
 It has been tested that the cylindrical soft segment would deform as a constant curvature within a certain range of bending. In this project, plenty of visual measurement techniques were used.
 
-<img src="/img/seg_bending.gif" width="500" />
+<img src="/images/seg_bending.gif" width="500" />
 
 J. Lai, [A Novel Wire Driven Soft Robot Manipulator with Visual Servoing Control](/img/me_poster.png), <font color = red>The 5th PolyU Mechanical Engineering Research Pitch Competition</font>, 2019.
 
@@ -41,7 +41,7 @@ J. Lai, [A Novel Wire Driven Soft Robot Manipulator with Visual Servoing Control
 
 Based on the visual feedback in real-time, we proposed an eye-to-hand visual servoing method that could adaptively correct the robot pose in the presence of a payload. An interactive GUI that enables the user to assign the robot pose using specified key-points was developed.
 
-<img src="/img/aim_demo.gif" width="500" />
+<img src="/images/aim_demo.gif" width="500" />
 
 [[Full video]](https://youtu.be/_yy3LjOx5cc)
 
@@ -52,14 +52,14 @@ J. Lai, K. Huang, B. Lu and H. K. Chu, [Toward Vision-based Adaptive Configuring
 
 A 3D sensing platform was built based on the image segmentation, RGB-D vision, and matrices transformation.
 
-<img src="/img/rgbd_sensing.gif" width="500" />
+<img src="/images/rgbd_sensing.gif" width="500" />
 
 ### Verticalized-Tip Trajectory Tracking of A 3D-Printed Soft Robot for Blood Suction Automation
 
 Based on the actual need for blood suction in MIS, an opposite-bending configuration was proposed to decouple the position and orientation of the tip frame. Based on this configuration constraint, a depth vision-enhanced trajectory tracking task with a vertical tip pose can be achieved. A point-cloud searching algorithm was proposed which could rapidly solve the IK. The tip can track the designated trajectory accurately and timely. On top of that, an image-based trajectory generation method was proposed to enable suction automation from detection to execution.
 
-<img src="/img/suction_circle.gif" width="300" />
-<img src="/img/suction_auto.gif" width="300" />
+<img src="/images/suction_circle.gif" width="300" />
+<img src="/images/suction_auto.gif" width="300" />
 
 [[Full video]](https://youtu.be/_5zb7vnvwkA)
 
